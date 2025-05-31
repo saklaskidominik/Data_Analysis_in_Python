@@ -1,5 +1,3 @@
-# Data Analysis in Python
-
 This repository contains example data analysis projects carried out in Python. The Jupyter Notebooks present practical applications of tools for exploring, cleaning, visualizing, and analyzing real-world datasets – including spatial data.
 
 ---
